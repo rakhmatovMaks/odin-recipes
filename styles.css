@@ -1,16 +1,16 @@
 .summary {
-    background-color: gray;
+    background-color:  rgb(226, 173, 74);
     color:white;
     font-weight: 600;
     font-size: 25px;
+    display: inline;
 }
 
-#one {
-    background-color: white;
+h1 {
+    background: rgb(226, 173, 74);
+    color: white;
     text-align: center;
-}
-
-#two {
-    background: white;
-    text-align: center;
+    padding: 10px;
+    margin-top: 0;
+    display: inline-block;
 }
